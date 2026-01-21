@@ -5,7 +5,7 @@ import pandas as pd
 # Config
 # -----------------------------
 np.random.seed(42)
-N = 1000  # number of customers
+N = 500000  # number of customers
 
 # -----------------------------
 # 1. Demographics
