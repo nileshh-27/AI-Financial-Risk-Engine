@@ -132,6 +132,6 @@ df = pd.DataFrame({
 # -----------------------------
 # 8. Save
 # -----------------------------
-df.to_csv("synthetic_financial_risk_dataset.csv", index=False)
+df.to_csv("synthetic_financial_risk_dataset1.csv", index=False)
 
 print("Dataset generated:", df.shape)
